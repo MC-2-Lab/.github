@@ -1,4 +1,4 @@
-## Welcome to Beihang MC2 Lab!
+## Welcome to Beihang MC-2 Lab!
   
 The MC$^2$ lab targets at improving the efficiency of multimedia communication by developing multimedia computing approaches, benefiting from the success of computer vision and machine learning techniques.
 
